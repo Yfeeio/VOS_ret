@@ -1,0 +1,16 @@
+{
+  "name": "VOS_ret",
+  "description": "VOS_ret",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "AUUID",
+      "value": ""
+    }
+  },
+  "website": "https://github.com/JohGeorge/",
+  "repository": "",
+  "stack": "container"
+}
